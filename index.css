@@ -1,0 +1,121 @@
+
+.website-features-container {
+    background-color: #ffffff;
+}
+
+.website-features-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.easy-connect-image {
+    width: 100px;
+    height: 100px;
+}
+
+.easy-connect-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.easy-connect-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.vr-capability-image {
+    width: 100px;
+    height: 100px;
+}
+
+.vr-capability-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.vr-capability-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.video-games-image {
+    width: 100px;
+    height: 100px;
+}
+
+.video-games-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.video-games-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.interaction-image {
+    width: 100px;
+    height: 100px;
+}
+
+.interaction-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.interaction-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.natural-color {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-style: italic;
+}
+
+.easy-play-image {
+    width: 100px;
+    height: 100px;
+}
+
+.easy-play-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.easy-play-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.experience-image {
+    width: 100px;
+    height: 100px;
+}
+
+.experience-title {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.experience-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 15px;
+}
